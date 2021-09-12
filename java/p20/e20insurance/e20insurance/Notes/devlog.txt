@@ -1,8 +1,0 @@
-
-3.24 - have proof concept for add read on back end 
- 
-     - build back end customer post  ref: https://www.javatpoint.com/restful-web-services-postman-for-chrome   
-     * found 'response entity function declaration'
-
-3.28 - intercept 302 in signin is ok? also recapped customer.model fields so not null 4 to go.
-3.28 - added signin check for /update but not working throws error debug.

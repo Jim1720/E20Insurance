@@ -1,5 +1,0 @@
-
-Normally, an app will verify user with OAuth in this
-case the auth is done by developer credentials.
-The jwt checks for secret only. So many users can use at once 
-since we are not keying to user db.

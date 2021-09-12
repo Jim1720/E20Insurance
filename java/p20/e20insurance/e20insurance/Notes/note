@@ -1,9 +1,0 @@
-
-the pom is incomplete when projected had to add main class 
-in the maven plug in section.
-
-use in deploy sub path
-
-e20insurance/target/e20insurance-0.0.1-SNAPSHOT.jar
-
-and right click on .jar file.
