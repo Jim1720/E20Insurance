@@ -1,0 +1,29 @@
+
+3.15 initialize: spring-web; jpa hibrenate; spring actuator
+
+using:
+https://www.onlinetutorialspoint.com/spring-boot/spring-boot-hibernate-integration-example.html
+
+spring boot hibernate notess:
+
+
+https://www.javatpoint.com/spring-boot-jpa
+
+In 2019, JPA renamed to Jakarta Persistence. The latest version of JPA is 2.2. It supports the following features:
+
+Java 8, data and time API
+CDI Injection in AttributeConvertes
+It makes annotations @Repeatable
+
+ suggeste jdk 8 support
+
+ pring Boot can auto-configure an embedded database such as H2, HSQL, and Derbydatabases. 
+We do not need to provide any connection URLs. We need only include a build dependency on 
+the embedded database that we want to use.
+
+
+CHECK:
+spring boot auto configure  sql server
+
+https://springframework.guru/configuring-spring-boot-for-microsoft-sql-server/
+
