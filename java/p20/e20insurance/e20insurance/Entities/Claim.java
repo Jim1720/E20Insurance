@@ -1,12 +1,11 @@
 package p20.e20insurance.e20insurance.Entities; 
 import java.io.Serializable;
 
-import javax.persistence.Entity;
-//import javax.persistence.GeneratedValue;
-//import javax.persistence.GenerationType;
-import javax.persistence.Id;
-import javax.persistence.Table; 
-import org.springframework.stereotype.Component;   
+import org.springframework.stereotype.Component;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;   
 
 @Component
 @Entity  
